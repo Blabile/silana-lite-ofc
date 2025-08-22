@@ -19,7 +19,7 @@ export async function before(m) {
 
         for (let usr of data) {
           if (user[usr].limit < 7) {
-            user[usr].limit = 550;
+            user[usr].limit = 250;
           }
         }
       },
