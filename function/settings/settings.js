@@ -14,12 +14,12 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
+ nomerbot : '212664492402',
+ pairingNumber : '212664492402',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
+ nomorwa : '212664492402',
  nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomerown : '212614711341',
  packname : 'sticker by ',
  author : 'SILANA AI',
  namebot : '乂 SILANA AI',
@@ -35,8 +35,8 @@ global.media = {
  didyou : 'https://telegra.ph/file/e40219cc8d472025f18b6.jpg',
  rulesBot : 'https://telegra.ph/file/7cd8985216ffd3c376238.jpg',
  thumbnail : 'https://files.catbox.moe/hnbuh3.jpg',
- thumb : 'https://files.catbox.moe/hnbuh3.jpg',
- logo : 'https://files.catbox.moe/hnbuh3.jpg',
+ thumb : 'https://files.catbox.moe/v7x2au.jpg',
+ logo : 'https://files.catbox.moe/v7x2au.jpg',
  unReg : 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
  registrasi : 'https://files.catbox.moe/hnbuh3.jpg',
  confess : 'https://telegra.ph/file/bfef7e33bc60dd2608ac6.jpg',
