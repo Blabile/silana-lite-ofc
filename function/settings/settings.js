@@ -25,7 +25,7 @@ global.info = {
  namebot : '乂 SILANA AI',
  wm : 'SILANA LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'SILANA LIE',
  jid: '@s.whatsapp.net'
 }
 
